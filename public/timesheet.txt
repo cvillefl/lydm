@@ -1,0 +1,296 @@
+6/18/13
+
+    7:20pm - 8:05pm                                                             45 min
+    
+    - Copied files from remote server to localhost
+    - Made changes to arrangement of info on home page
+    - Saved as index2.html -- pending confirmation from Lyn
+    
+    9pm - 9:25pm                                                                25 min
+    
+    - Addressed Lyn's concerns
+    
+6/20/13
+
+    10:50am - 11:30am                                                           40 min
+    
+    - Updated Susan Mcalister images
+
+6/27/13
+
+    10:25am - 11:25am                                                           1 hr
+    
+    - Moved John Grant to Other Artists section
+    - Renamed McAlister to Mcalister across site
+    - Added Abbot upcoming exh. data
+
+7/7/13
+
+    11:20pm - 11:50pm                                                           30 min
+    
+    - Updated Mcalister page with new formatting for SOLD text and copy edits
+    - Inspected RH sidebar to assess possibility of Lyn editing, came up with solution
+    
+7/9/13
+
+    2:25pm - 4:25pm                                                             2 hr
+    
+    - Updated Abbot exh. in upcoming exh.'s
+    - Created RH sidebar solution
+
+7/10/13
+
+    2:30pm - 3:30pm                                                             1 hr
+    
+    - Met with Lyn
+    
+7/11/13
+
+    8:45am - 9:30am                                                             45 min
+    
+    - Updated home page
+    - Applied patch to fix Error 412 problem; contacted WebHero support
+    
+7/16/13                                                                         15 min
+
+    7am - 7:15am
+    
+    - Added Abbot exh. to the main index page
+    
+7/17/13
+
+    1:55pm - 2:10pm                                                             15 min
+                                                                                 
+    - Added details to Abbot's page
+
+    3:35pm - 4:10pm                                                             35 min
+    
+    - Uploaded Abbot images on index and Abbot/home pages
+    - Created 2nd page of Abbot images
+    
+7/21/13
+
+    10pm - 10:30pm                                                              30 min
+    
+    - Added Anne's news items to her page and the In the News page
+    
+7/28/13
+
+    11:50am - 12:10pm                                                           20 min
+    
+    - Marked several Abbot items as sold
+    - Investigated home page not refreshing
+    - Changed home page title
+    
+8/7/13
+
+    9:10pm - 10:30pm                                                            1 hr 20 min
+    
+    - Updated RH sidebar to make the code easier to manage
+
+8/14/13
+
+    7:40pm - 8:40pm                                                             1 hr
+    
+    - Reuploaded sidebar, emailed it to Lyn
+    - Added Warren images to upcoming page
+    
+8/15/13
+
+    11:55pm - 12:10am                                                           15 min
+    
+    - Uploaded Angelitos image
+    - Explained sidebar over email
+    - Updated Janet Bruce's first image
+    
+8/25/13
+
+    10:55am - 11:10am                                                           15 min
+    
+    - Marked a couple Abbot works as sold
+    - Fixed Warren links
+    
+8/26/13
+
+    12:25am - 12:45pm                                                           20 min
+    
+    - Moved Abbot exh. to an archived page
+    - Moved Warren exh. to the main page
+    
+8/27/13
+
+    1:40am - 1:50am                                                             10 min
+    
+    - Updated dates of Warren exh
+    - Separated Galilee panels
+    
+    10:45pm - 11:20pm                                                           35 min
+    
+    - Created new page for Warren BSSSC exh.
+
+8/28/13
+
+    1:35pm - 1:40pm                                                             5 min
+
+    - Changed title of "Angelitos" to "Helotes"
+
+8/31/13
+
+    11:05am - 11:15am                                                           10 min
+
+    - Marked Galilee works as sold; reinstated triptych
+
+9/1/13
+
+    10:25am - 10:30am                                                           5 min
+
+    - Updated title bar to show Warren's exh
+
+9/5/13
+
+    8:30pm - 8:35pm                                                             5 min
+
+    - Marked Fountain as sold
+
+9/9/13
+
+    9:35pm - 9:40pm                                                             5 min
+
+    - Marked Helotes as sold
+    
+9/12/13
+
+    11am - 11:05am                                                              5 min
+    
+    - Updated files on other computer in preparation for LH sidebar update
+    
+    2:20pm - 4pm                                                                1 hr 40 min
+
+    - Updated LH sidebar logic; now DW is [hopefully] a thing of the past
+    - Added page for Kolb
+    - Moved artists from main sidebar to "Additional Artists" page and vice versa
+
+9/16/13
+
+    6:15pm - 6:50pm                                                             35 min
+
+    - Marked several of Abbot's & Evans's works as sold
+    - Image lazyloading on home page
+
+9/17/13
+
+    11:05pm - 11:10pm                                                           5 min
+
+    - Changed over to the Fall banner
+
+9/24/13
+
+    2am - 2:05am                                                                5 min
+
+    - Removed unveil JS
+
+10/7/13
+
+    6:30am - 7:05am                                                             35 min
+
+    - Archived Warren page
+    - Added Bruce homepage images
+
+    8am - 8:40am                                                                20 min
+
+    - Updated Bruce's gallery with additional 20 images
+
+    10am - 10:10am                                                              10 min
+
+    - Changed header formatting in gallery, removed prices
+
+10/9/13
+
+    4pm - 4:30pm                                                                30 min
+
+    - Changed Bruce image orientations, sizings, media
+
+10/14/13
+
+    10:40am - 10:55am                                                           15 min
+
+    - Updated home page to remove the "consultancy" copy
+
+10/16/13
+
+    6:50pm - 7:10pm                                                             20 min
+
+    - Marked a few paintings as sold, switched Approach and Mountains&Clouds by Bruce
+    - Added Ormsby's page
+
+10/23/13
+    
+    12:30am - 12:35am                                                           5 min
+
+    - Added image to Russ Warren's page
+
+10/30/13
+
+    1:20 AM - 1:40am                                                            20 min
+
+    - Added new Lyne images
+
+11/3/13
+
+    7:10pm - 7:20pm                                                             10 min
+
+    - Added Warren new images to his artist page
+
+11/6/13
+
+    10:05am - 10:25am                                                           20 min
+
+    - Updated homepage sidebar with Bruce and Dass info
+    - Added captions to Lyne's images; changed orientation
+
+11/19/13
+
+    1:35pm - 2:10pm                                                             35 min
+
+    - Moved Bruce to previous
+    - Added Bruce images to her gallery
+    - Added Dass event and photos
+    - Marked some of Bruce's works as sold
+
+    \
+    
+    
+TO DOWNLOAD ON OTHER COMPUTER:
+    DONE - in_the_news/index.html
+    DONE - artists/Chesnut/home.html
+    DONE - artists/Abbot/home.html
+    DONE - index.html
+    - abbot new images?
+    DONE - previous/2013/home.html
+    DONE - sidebars/rh_sidebar.html
+    DONE - upcoming/home.html
+    - /artists/Warren/images/2013/ ?
+    - /artists/Bruce/images/2013/  ?
+    DONE - /artists/Bruce/home.html
+    DONE - /artists/Warren/info.html
+    DONE - /previous/2013/Abbot/ 
+    DONE - /exhibitions/warren_bsssc.html
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    Russ Warren:  A Little Night Music
+    2 August - 15 September
+    Beverley Street Studio School Gallery
+    22 West Beverley St. Staunton, VA 
+    View images >

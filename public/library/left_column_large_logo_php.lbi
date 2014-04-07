@@ -1,0 +1,16 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<link rel="stylesheet" type="text/css" href="../css/lesyeuxdumonde_css.css" />
+	  
+<link rel="stylesheet" type="text/css" href="../css/php.css">
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tr>
+          <td colspan="3" valign="top"><div align="right"><img src="../images/logo_large.jpg" alt="Les Yeux du Monde logo" width="179" height="190" /></div></td>
+        </tr>
+        <tr>
+          <td width="20" valign="top" bgcolor="#FFFFFF"><img src="../images/20_pixel_spacer.jpg" width="20" height="20" /></td>
+          <td width="125" valign="top" bgcolor="#FFFFFF"><!--#include file="left_menu.php" --></td>
+          <td width="35" valign="top" bgcolor="#FFFFFF"><img src="../images/35_pixel_spacer.jpg" width="35" height="35" /></td>
+  </tr>
+      </table>
+      

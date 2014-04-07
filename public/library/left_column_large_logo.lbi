@@ -1,0 +1,19 @@
+<div id="lh_sidebar">
+
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+<script>
+$(document).ready(function() {
+	$.ajax({
+        type:     "GET",
+		data: {'page': 'home'},
+        url:      'http://www.lesyeuxdumonde.com/sidebars/lh_sidebar.php',
+        cache:    false,
+        dataType: "html",
+        success:  function(data) {
+            $('#lh_sidebar').html(data);
+        }
+    }); 	
+});
+</script>

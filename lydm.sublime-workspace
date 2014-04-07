@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scr",
+				"scrollToTop"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "public/index.html",
+			"settings":
+			{
+				"buffer_size": 16066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/previous/2013/home.html",
+			"settings":
+			{
+				"buffer_size": 11180,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/util/public/gallerygen.php",
+		"/var/www/lydm/public/previous/2014/home.html",
+		"/var/www/lydm/public/previous/2014/Visions/home.html",
+		"/var/www/lydm/public/artists/Warren/home.html",
+		"/var/www/lydm/public/artists/Warren/home_11.html",
+		"/var/www/lydm/public/artists/Warren/home_3.html",
+		"/var/www/lydm/public/artists/Warren/home_4.html",
+		"/var/www/lydm/public/artists/Warren/home_5.html",
+		"/var/www/lydm/public/artists/Warren/home_6.html",
+		"/var/www/lydm/public/artists/Warren/home_7.html",
+		"/var/www/lydm/public/artists/Warren/home_8.html",
+		"/var/www/lydm/public/artists/Warren/home_10.html",
+		"/var/www/lydm/public/artists/Warren/home_9.html",
+		"/var/www/lydm/public/artists/Warren/home_2.html",
+		"/var/www/lydm/public/.htaccess",
+		"/var/www/lydm/public/in_the_news/index.html",
+		"/var/www/lydm/public/services/home.html",
+		"/var/www/lydm/public/contact/thank_you.html",
+		"/var/www/lydm/public/contact/home.html",
+		"/var/www/lydm/public/about/home.html",
+		"/var/www/lydm/public/calendar/collectors_club.html",
+		"/var/www/lydm/public/previous/2014/Hathaway/home.html",
+		"/var/www/lydm/public/upcoming/home.html",
+		"/var/www/lydm/public/artists/Abbot/home.html",
+		"/var/www/lydm/public/gallerygen.php",
+		"/var/www/lydm/public/previous/2012/home.html",
+		"/var/www/lydm/public/previous/2013/home.html",
+		"/var/www/lydm/public/in_the_news/press_room.html",
+		"/var/www/lydm/public/artists/McCarthy/home_4.html",
+		"/var/www/lydm/public/artists/McCarthy/home_3.html",
+		"/var/www/lydm/public/artists/McCarthy/home_2.html",
+		"/var/www/lydm/public/artists/McCarthy/home_5.html",
+		"/var/www/lydm/public/sidebars/rh_sidebar.html",
+		"/var/www/lydm/public/sidebars/lh_sidebar.php",
+		"/var/www/lydm/public/artists/Brown/home.html",
+		"/home/ben/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/var/www/lydm/public/artists/McCarthy/home.html",
+		"/var/www/lydm/public/artists/Whitlock/home.html",
+		"/var/www/lydm/public/sidebars/.htaccess",
+		"/var/www/lydm/public/artists/Lyne/home.html",
+		"/var/www/lydm/public/artists/Lyne/home3.html",
+		"/var/www/lydm/public/artists/Lyne/home2.html",
+		"/var/www/lydm/public/artists/Brown/home_2.html",
+		"/var/www/lydm/public/artists/Brown/home_4.html",
+		"/var/www/lydm/public/artists/Brown/home_3.html",
+		"/var/www/lydm/public/artists/Brown/home_5.html",
+		"/var/www/lydm/public/artists/Brown/home_6.html",
+		"/var/www/lydm/public/artists/Brown/info.html",
+		"/var/www/lydm/public/artists/Brown/bio.html",
+		"/var/www/lydm/public/artists/Jordan/pubs.html",
+		"/var/www/lydm/public/artists/Jordan/info.html",
+		"/var/www/lydm/public/artists/Jordan/home2.html",
+		"/var/www/lydm/public/artists/Jordan/home.html",
+		"/var/www/lydm/public/previous/2013/Dass/home.html",
+		"/var/www/lydm/public/previous/2010/home.html",
+		"/var/www/lydm/public/previous/2011/home.html",
+		"/var/www/lydm/public/artists/Coles/home.html",
+		"/var/www/lydm/public/artists/Hathaway/pubs.html",
+		"/var/www/lydm/public/artists/Hathaway/info.html",
+		"/var/www/lydm/public/artists/Hathaway/home_4.html",
+		"/var/www/lydm/public/artists/Hathaway/home_2.html",
+		"/var/www/lydm/public/artists/Hathaway/home.html",
+		"/var/www/lydm/public/artists/Hathaway/home_3.html",
+		"/var/www/lydm/public/hathaway-home-exh",
+		"/var/www/lydm/public/index.html",
+		"/home/ben/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/var/www/lydm/public/artists/Dass/home_2.html",
+		"/var/www/lydm/public/artists/Dass/home.html",
+		"/var/www/lydm/public/artists/Dass/home_3.html",
+		"/var/www/lydm/public/artists/Dass/pubs.html",
+		"/var/www/lydm/public/artists/Dass/info.html",
+		"/var/www/lydm/public/artists/Dass/essay.html",
+		"/var/www/lydm/public/artists/Dass/home_9.html",
+		"/var/www/lydm/public/artists/Dass/home_8.html",
+		"/var/www/lydm/public/artists/Dass/home_7.html",
+		"/var/www/lydm/public/artists/Dass/home_6.html",
+		"/var/www/lydm/public/artists/Dass/home_5.html",
+		"/var/www/lydm/public/artists/Dass/home_4.html",
+		"/var/www/lydm/public/artists/Dass/bio.html",
+		"/var/www/lydm/public/artists/Bruce/pubs.html",
+		"/var/www/lydm/public/publications/home.html",
+		"/var/www/lydm/public/artists/Chesnut/home_4.html",
+		"/var/www/lydm/public/artists/Chesnut/home_5.html",
+		"/var/www/lydm/public/artists/Chesnut/home_6.html",
+		"/var/www/lydm/public/artists/Chesnut/home_7.html",
+		"/var/www/lydm/public/artists/Chesnut/home_8.html",
+		"/var/www/lydm/public/artists/Chesnut/home_9.html",
+		"/var/www/lydm/public/artists/Chesnut/home_2.html",
+		"/var/www/lydm/public/artists/Chesnut/home_3.html",
+		"/var/www/lydm/public/artists/Chesnut/home.html",
+		"/var/www/lydm/public/artists/Chesnut/pubs.html",
+		"/var/www/lydm/public/artists/Chesnut/info.html",
+		"/var/www/lydm/public/artists/Chesnut/bio.html",
+		"/var/www/lydm/public/artists/Bruce/home.html",
+		"/var/www/lydm/public/artists/Bruce/home_4.html",
+		"/var/www/lydm/public/artists/Bruce/home_3.html",
+		"/var/www/lydm/public/artists/Bruce/home_2.html",
+		"/var/www/lydm/public/artists/Bradford/home.html",
+		"/var/www/lydm/public/artists/Bradford/home2.html",
+		"/home/ben/Desktop/catchall.conf.txt",
+		"/home/ben/Desktop/apache2.conf.txt",
+		"/home/ben/Desktop/exclude.txt",
+		"/var/www/bwc/.git/info/exclude",
+		"/sbin/hello.txt",
+		"/var/www/freelance/public/css/freelance.css",
+		"/var/www/freelance/public/modules/logs/create.php",
+		"/var/www/freelance/public/modules/logs/view.php",
+		"/var/www/freelance/public/templates/main.php",
+		"/var/www/freelance/public/modules/projects/view.php",
+		"/var/www/freelance/public/js/freelance.js",
+		"/var/www/freelance/public/modules/home.php",
+		"/home/ben/Desktop/LINUX",
+		"/var/www/freelance/public/ajax/projects/create.php",
+		"/var/www/freelance/public/modules/projects/create.php",
+		"/var/www/freelance/public/bootstrap/css/bootstrap.css",
+		"/var/www/freelance/core/db.php",
+		"/var/www/freelance/public/ajax/logs/create.php",
+		"/var/www/freelance/public/modules/errors/404.php",
+		"/var/www/freelance/public/bootstrap/css/bootstrap32.css",
+		"/var/www/freelance/public/ajax/create-log.php",
+		"/var/www/freelance/core/config.php",
+		"/var/www/freelance/core/general.php",
+		"/var/www/freelance/public/index.php",
+		"/var/www/freelance/core/router.php",
+		"/var/www/freelance/core/common.php",
+		"/var/www/freelance/public/.htaccess",
+		"/var/www/bwc/public/.htaccess",
+		"/etc/apache2/apache2.conf"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"11.",
+			"14.",
+			"13.",
+			"12.",
+			"<script>\n$(document).ready(function() {\n	$.ajax({\n        type:     \"GET\",\n        url:      'http://www.lesyeuxdumonde.com/sidebars/rh_sidebar.html',\n        cache:    false,\n        dataType: \"html\",\n        success:  function(data) {\n            $('#rh_sidebar').html(data);\n        }\n    }); 	\n});\n</script>",
+			"<p class=\"body_copy_or_art_description_quarter_spaced\" ><a href=\"/artists/Warren/home.html\" class=\"body_copy_or_art_description\">Images </a> | <a href=\"/artists/Warren/home_2.html\" class=\"body_copy_or_art_description\">Images 2</a> | <a href=\"/artists/Warren/home_3.html\" class=\"body_copy_or_art_description\">Images 3</a> | <a href=\"/artists/Warren/home_4.html\" class=\"body_copy_or_art_description\">Images 4</a> | <a href=\"/artists/Warren/home_5.html\" class=\"body_copy_or_art_description\">Images 5</a> | <a href=\"/artists/Warren/home_6.html\" class=\"body_copy_or_art_description_double_spaced\">Images 6</a><br /><a href=\"/artists/Warren/home_7.html\" class=\"body_copy_or_art_description\">Images 7</a> | <a href=\"/artists/Warren/home_8.html\" class=\"body_copy_or_art_description\">Images 8</a> | <a href=\"/artists/Warren/home_9.html\" class=\"body_copy_or_art_description\">Images 9</a> | <a href=\"/artists/Warren/home_10.html\" class=\"body_copy_or_art_description\">Images 10</a> | <a href=\"/artists/Warren/vitae.html\" class=\"body_copy_or_art_description\">Vitae</a> | <a href=\"/artists/Warren/info.html\" class=\"body_copy_or_art_description\">Info</a> |  <a href=\"/artists/Warren/studio_school.html\" class=\"body_copy_or_art_description\">Studio School</a></p>",
+			"#!#!#",
+			"2013",
+			"previous",
+			", 2012.",
+			", 2013.",
+			"Chestnut",
+			"–",
+			"display_errors",
+			"@media",
+			"display_errors",
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"11,",
+			"14,",
+			"13,",
+			"12,",
+			"<script>\n$(document).ready(function() {\n    $.ajax({\n        type:     \"GET\",\n        url:      'http://lesyeuxdumonde.com/sidebars/rh_sidebar.html',\n        cache:    false,\n        dataType: \"html\",\n        success:  function(data) {\n            $('#rh_sidebar').html(data);\n        }\n    });     \n\n  $.ajax({\n        type:     \"GET\",\n        url:      'http://www.lesyeuxdumonde.com/sidebars/rh_sidebar.html',\n        cache:    false,\n        dataType: \"html\",\n        success:  function(data) {\n            $('#rh_sidebar').html(data);\n        }\n    });  \n});\n</script>",
+			"<p class=\"body_copy_or_art_description_quarter_spaced\" ><a href=\"/artists/Warren/home.html\" class=\"body_copy_or_art_description\">Images </a> | <a href=\"/artists/Warren/home_2.html\" class=\"body_copy_or_art_description\">Images 2</a> | <a href=\"/artists/Warren/home_3.html\" class=\"body_copy_or_art_description\">Images 3</a> | <a href=\"/artists/Warren/home_4.html\" class=\"body_copy_or_art_description\">Images 4</a> | <a href=\"/artists/Warren/home_5.html\" class=\"body_copy_or_art_description\">Images 5</a> | <a href=\"/artists/Warren/home_6.html\" class=\"body_copy_or_art_description_double_spaced\">Images 6</a><br /><a href=\"/artists/Warren/home_7.html\" class=\"body_copy_or_art_description\">Images 7</a> | <a href=\"/artists/Warren/home_8.html\" class=\"body_copy_or_art_description\">Images 8</a> | <a href=\"/artists/Warren/home_9.html\" class=\"body_copy_or_art_description\">Images 9</a> | <a href=\"/artists/Warren/home_10.html\" class=\"body_copy_or_art_description\">Images 10</a> |  <a href=\"/artists/Warren/home_11.html\" class=\"body_copy_or_art_description\">Images 11</a> | <a href=\"/artists/Warren/vitae.html\" class=\"body_copy_or_art_description\">Vitae</a> | <a href=\"/artists/Warren/info.html\" class=\"body_copy_or_art_description\">Info</a> |  <a href=\"/artists/Warren/studio_school.html\" class=\"body_copy_or_art_description\">Studio School</a></p>",
+			"",
+			", 2012,",
+			", 2013,",
+			"Chesnut",
+			"&ndash;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3807,
+								3807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 947.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/previous/2013/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4784,
+								4784
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "lydm.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

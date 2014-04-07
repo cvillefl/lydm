@@ -1,0 +1,341 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="shortcut icon" href="http://www.lesyeuxdumonde.com/images/favicon.ico" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Les Yeux du Monde Gallery</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+
+
+<link href="../css/lesyeuxdumonde_css.css" rel="stylesheet" type="text/css" />
+
+
+
+
+<style type="text/css">
+<!--
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style></head>
+<body>
+<table width="785" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="179" rowspan="2" align="left" valign="top" bgcolor="#FFFFFF"><!--#include virtual="/library/left_column_large_logo.lbi" --></td>
+    <td height="97" colspan="3" valign="top" bgcolor="#FFFFFF"><img src="../images/header_2.jpg" width="606" height="97" align="top" /></td>
+  </tr>
+  <tr>
+    <td width="361" align="left" valign="top" bgcolor="#FFFFFF"><table width="361" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td valign="top"><!-- TemplateBeginEditable name="Editable_Body" -->
+          <p class="body_copy_or_art_description"><span class="cookie_crumb">&gt; </span><span class="cookie_crumb">CookieCrumb</span><span class="cookie_crumb"> </span> </p>
+          <p class="body_copy_or_art_description"><span class="center_headline_major">HeadlineMajor</span><br />
+              <span class="center_headline_minor">HeadlineMinor</span></p>
+          <p class="body_copy_or_art_description">BodyCopy-ArtDescription</p>
+          <p class="center_subhead">CenterSubHeads</p>
+          <p class="center_link">CenterLink &gt; </p>
+          <p class="body_copy_or_art_description">Images | Images 2 | Bio</p>
+          <hr />
+          <p class="center_link">&nbsp; </p>
+        <!-- TemplateEndEditable --></td>
+      </tr>
+    </table></td>
+    <td width="68" rowspan="2" valign="top" background="../images/shade_bar.jpg"><img src="../images/shade_bar.jpg" width="63" height="332" /></td>
+    <td width="178" align="left" valign="top" bgcolor="#FFFFFF"><!-- #BeginLibraryItem "/library/right_column.lbi" --><!-- RIGHT COLUMN -->
+
+
+<link rel="stylesheet" type="text/css" href="../css/lesyeuxdumonde_css.css" />
+<table width="178" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168"><table width="163" border="0" cellpadding="0" cellspacing="0" id="Right_Column_Table">
+      
+      <tr>
+        <td width="168" height="1191" valign="top" bgcolor="#FFFFFF" ><table width="163" border="0" cellpadding="0" cellspacing="0" id="Season_highlights">
+            
+            <tr>
+              <td height="2" colspan="2" valign="top"><img src="../images/spacer.gif" width="168" height="1"></td>
+            </tr>
+            <tr>
+              <td height="10" colspan="2" valign="top" class="right_column_header">Season highlights</td>
+            </tr>
+            <tr>
+              <td height="10" colspan="2" valign="top">&nbsp;</td>
+            </tr>
+            <tr class="all_caps_3">
+              <td width="38" height="10" valign="top"><img src="../images/10pt_high_spacer.jpg" alt="" width="55" height="1" /></td>
+              <td width="125" height="10" valign="top">FEATURED ARTISTS</td>
+            </tr>
+            <tr>
+              <td height="10" colspan="2" valign="top"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>
+            <!--
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+              </tr>
+            <tr>
+              <td valign="top" class="right_menu_text">Jul</td>
+              <td valign="top" class="right_menu_text">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+              </tr>
+            <tr>
+              <td valign="top" class="right_menu_text">Aug</td>
+              <td valign="top" class="right_menu_text">&nbsp;</td>
+            </tr>
+            -->
+            <tr class="right_menu_text">
+              <td valign="top">May-Jun</td>
+              <td valign="top"><a href="/artists/Perry/" class="right_column_bold_link">Lincoln Perry</a></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+            </tr>
+            <tr class="right_menu_text">
+              <td valign="top">Jun-Jul</td>
+              <td valign="top"><a href="/artists/Abell/" class="right_column_bold_link">Sam Abell</a></td>
+            </tr>
+            <tr class="right_menu_text">
+              <td valign="top">&nbsp;</td>
+              <td valign="top">traveling exhibition from the <a href="http://jsma.uoregon.edu/" target="_blank" class="right_menu_text_link_light">Jordan Schnitzer Museum of Art</a>, University of Oregon</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top"><span class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></span></td>
+              </tr>
+            <tr class="right_menu_text">
+              <td valign="top">20-31 Jul</td>
+              <td valign="top" class="right_column_bold">Wolfgang Seierl:<br><em>Austrian Composer as Painter</em></td>
+            </tr>
+            <tr class="right_menu_text">
+              <td valign="top">&nbsp;</td>
+              <td valign="top">in conjunction with the <a href="http://www.wintergreenperformingarts.org/" target="_blank" class="right_menu_text_link_light">Wintergreen Summer Music Festival and Academy</a></td>
+            </tr>
+            <!--<tr class="right_menu_text">
+              <td valign="top">&nbsp;</td>
+              <td valign="top">DETAILS</td>
+            </tr>-->
+          </table>
+          
+          <br>
+          
+            <table width="168" border="0" cellpadding="0" cellspacing="0" id="Gallery_news">
+              <tr>
+                <td width="168"><span class="right_column_header">Gallery news</span></td>
+              </tr>
+              <tr>
+                <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" width="15" height="15" /></td>
+              </tr>
+              
+              <!--<tr>
+                <td colspan="2" valign="top" class="right_menu_text_bold">Russ Warren Studio School</td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="5" height="5" /></td>
+              </tr>
+              <tr>
+                <td colspan="2" valign="top" class="right_menu_text">In keeping with our goal to educate and inform, Les Yeux du Monde will offer <a href="/artists/Warren/studio_school.html" class="right_menu_text_link">spring studio art classes</a> for beginners and advanced students alike taught by <a href="/artists/Warren/" class="right_menu_text_link">Russ Warren</a>, Professor Emeritus of Art at Davidson College.  Warren, who has shown in prestigious exhibitions such as the Venice Biennale and the Whitney Biennial, will share his aesthetic, art historical, and practical experiences for this six-week class.  The class will meet on Saturdays from 1 - 3 pm beginning on April 10 and ending on May 15.  For more information, please call the gallery at 434-973-5566 or <a href="/contact/" class="right_menu_text_link">contact us &gt;</a></td>
+              </tr>
+              <tr>
+                <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>-->
+              
+              <tr>
+                <td class="right_menu_text"><span class="right_menu_text_bold">Lydia Gasman tributes &amp; press</span></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="5" height="5" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">It is with deep sadness that we report that <a href="/artists/Gasman/" class="right_menu_text_link">Lydia Gasman</a>, legendary Picasso scholar, brilliant artist and great friend, passed away on January 15, 2010. A memorial celebration was held for her at LYDM, Friday January 22, just before the opening of <em>Lydia Gasman and David Summers: Philosophers and Painters</em>.<br>
+<img src="/images/spacer.gif" width="15" height="1"><a href="http://www.nytimes.com/2010/02/06/arts/06gasman.html" target="_blank" class="right_column_link">Read NYT article &gt;</a><br>
+<img src="/images/spacer.gif" width="15" height="1"><a href="/artists/Gasman/tributes.html#Margulies_poem" class="right_column_link">Read Margulies poem &gt;</a><br>
+<img src="/images/spacer.gif" width="15" height="1"><a href="http://www.c-ville.com/index.php?cat=11801003094014031&ShowArticle_ID=11800802103546039" target="_blank" class="right_column_link">Read Cville article &gt;</a><br>
+<img src="/images/spacer.gif" width="15" height="1"><a href="/artists/Gasman/downloads/Picasso_the_Magician.pdf" target="_blank" class="right_column_link">Download UVa Alumni News &gt;</a><br>
+For further press and tributes:<br> 
+<img src="/images/spacer.gif" width="15" height="1"><a href="/artists/Gasman/tributes.html" class="right_column_link">Read all tributes &amp; press &gt;</a></td>
+              </tr>
+			  <tr>
+                <td height="10" colspan="2" valign="top" class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" width="10" height="10" /></td>
+              </tr>
+              
+              
+              
+              <tr>
+                <td class="right_menu_text"><span class="right_menu_text_bold">New connections</span></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="5" height="5" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">Check out the great Charlottesville blog, <a href="http://www.scoutcharlottesville.com/scout-charlottesville/" target="_blank" class="right_menu_text_link">Scout</a>, Susie Matheson has started and what she says about Les Yeux du Monde. <a href="http://www.scoutcharlottesville.com/scout-charlottesville/" target="_blank" class="right_column_link">Read blog &gt;</a></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="5" height="5" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">LYDM is happy to be part of the <a href="http://www.virginia.org" target="_blank" class="right_menu_text_link">Virginia Tourism</a> website. We are working together to bring visitors from all over the world to enjoy our Virginia's abundant natural and cultural resources. </td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><span class="right_menu_text_bold">Spring events</span></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" width="5" height="5" /></td>
+              </tr>
+              <!--<tr>
+                <td class="right_menu_text">LYDM has Good News!  We will be moving into our new space, a gallery designed by W.G. Clark and Associates and constructed by Peter Johnson Builders in early October.  Our first show will feature <a href="/artists/Dass/" class="right_menu_text_link">Dean Dass</a>, current chair of the University of Virginia Art Department and well known printmaker, painter and book artist.</td>
+              </tr>
+              <tr>
+                <td><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>-->
+              <tr>
+                <td class="right_menu_text">To find out about other exciting exhibitions and events we are planning in conjunction with our grand opening, join our confidential email list. <a href="/contact/" class="right_column_link">&gt; Contact us</a></td>
+              </tr>
+              
+              <tr>
+                <td><img src="../images/10pt_high_spacer.jpg" alt="" width="5" height="5" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">LYDM is moving towards e-cards, when possible, for the health of our planet and pocketbooks; however, if you would rather receive "snail mail" we would be happy to add you to that list. If you care to give us your preference, we would be grateful to honor it.</td>
+              </tr>
+              <tr>
+                <td><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">LYDM Gallery not only mounts exhibitions of artists, but also locates art of all kinds for any client's needs.</td>
+              </tr>
+              <tr>
+                <td><img src="../images/10pt_high_spacer.jpg" alt="" width="5" height="5" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">We are also available for arts consulting as well.</td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="15" height="15" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text_bold">Collector's Club</td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">Want to join the 2010 <a href="/calendar/collectors_club.html" class="right_menu_text_link">Collectors' Club</a>? Here is just a sampling of what we have in store this spring:<br><table width="168" border="0" cellpadding="0" cellspacing="2" class="right_menu_text">
+  <tr>
+    <td width="28"><img src="../images/10pt_high_spacer.jpg" alt="" width="28" height="10" /></td>
+    <td width="5"><img src="../images/10pt_high_spacer.jpg" alt="" width="5" height="10" /></td>
+    <td width="127"><img src="../images/10pt_high_spacer.jpg" alt="" width="127" height="10" /></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">Feb</td>
+    <td>&nbsp;</td>
+    <td align="left" valign="top">Gallery Talk with <a href="/artists/Summers/" class="right_menu_text_link">David Summers</a></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">Mar</td>
+    <td>&nbsp;</td>
+    <td align="left" valign="top">Event with artists of <strong>Minds Wide Open</strong></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">Apr</td>
+    <td>&nbsp;</td>
+    <td align="left" valign="top">Trip to Capital One Collection &amp; reopened VMFA</td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">May</td>
+    <td>&nbsp;</td>
+    <td align="left" valign="top">Gallery Talk with <a href="/artists/Perry/" class="right_menu_text_link">Lincoln Perry</a></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top">Jun</td>
+    <td>&nbsp;</td>
+    <td align="left" valign="top">Book signing with <a href="/artists/Abell/" class="right_menu_text_link">Sam Abell</a></td>
+  </tr>
+</table></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">LYDM formed  <a href="../calendar/collectors_club.html" class="right_menu_text_link">Collector's Club</a> in 2008 and it continues with monthly special events for its members and a featured artist/work per month sold to members for discounted prices. To join or learn more:</td>
+              </tr>
+              <tr>
+                <td><a href="../contact" class="right_column_link">&gt; Contact us</a></td>
+              </tr>
+              <tr>
+                <td><span class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></span></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">A limited number of prints and other images from fall 2008 <a href="../calendar/collectors_club.html" class="right_menu_text_link">Collector’s Club</a> editions are still available.</td>
+              </tr>
+              <tr>
+                <td><a href="../calendar/collectors_club_portfolio.html" class="right_column_link">&gt; See images</a></td>
+              </tr>
+            </table>
+            
+<br>
+
+
+
+<table width="168" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="right_column_header">Become a fan</td>
+  </tr>
+  <tr>
+    <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+  </tr>
+  <tr>
+    <td><a href="http://www.facebook.com/pages/Charlottesville-VA/Les-Yeux-du-Monde-LYDM/123042585921?ref=share" target="_blank"><img src="/images/icon_facebook.gif" alt="Become a facebook fan of Les Yeux du Monde Art Gallery" width="32" height="32" border="0"></a></td>
+  </tr>
+</table>
+
+
+          <p>&nbsp;</p></td>
+      </tr>
+    </table></td>
+    <td width="10" valign="top" bgcolor="#FFFFFF"><img src="../images/20_pixel_spacer.jpg" width="10" height="20" /></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<!-- END RIGHT COLUMN --><!-- #EndLibraryItem --></td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" bgcolor="#FFFFFF">&nbsp;</td>
+    <td bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4" bgcolor="#FFFFFF"><img src="../images/footer.jpg" width="785" height="85" /></td>
+  </tr>
+  <tr>
+    <td colspan="4" bgcolor="#FFFFFF" class="body_copy_or_art_description">
+	
+	 <table width="450" border="0" cellpadding="0" cellspacing="0" id="copyright">
+        <tr>
+          <td width="17">&nbsp;</td>
+          <td width="449">&copy; 1995-2010 All Rights Reserved. Les Yeux du Monde </td>
+        </tr>
+      </table>
+     
+	 <p>&nbsp;</p>
+	</td>
+  </tr>
+</table>
+</body>
+</html>
+

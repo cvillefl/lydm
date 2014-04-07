@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Les Yeux du Monde Gallery</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+
+
+<link rel="stylesheet" type="text/css" href="../css/php.css">
+
+<link rel="stylesheet" type="text/css" href="../css/lesyeuxdumonde_css.css">
+
+
+</head>
+<body>
+<table width="785" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="179" rowspan="2" align="left" valign="top" bgcolor="#FFFFFF"><!-- #BeginLibraryItem "/library/left_column_large_logo_php.lbi" -->
+
+<link rel="stylesheet" type="text/css" href="../css/lesyeuxdumonde_css.css" />
+	  
+<link rel="stylesheet" type="text/css" href="../css/php.css">
+<table width="180" border="0" cellspacing="0" cellpadding="0">
+<tr>
+          <td colspan="3" valign="top"><div align="right"><img src="../images/logo_large.jpg" alt="Les Yeux du Monde logo" width="179" height="190" /></div></td>
+        </tr>
+        <tr>
+          <td width="20" valign="top" bgcolor="#FFFFFF"><img src="../images/20_pixel_spacer.jpg" width="20" height="20" /></td>
+          <td width="125" valign="top" bgcolor="#FFFFFF"><!--#include file="../library/left_menu.php" --></td>
+          <td width="35" valign="top" bgcolor="#FFFFFF"><img src="../images/35_pixel_spacer.jpg" width="35" height="35" /></td>
+  </tr>
+      </table>
+      <!-- #EndLibraryItem --></td>
+    <td height="97" colspan="3" valign="top"><img src="../images/header.jpg" width="606" height="97" align="top" /></td>
+  </tr>
+  <tr>
+    <td width="361" align="left" valign="top" bgcolor="#FFFFFF"><table width="361" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td valign="top"><!-- TemplateBeginEditable name="Editable_Body" -->
+          <p class="body_copy_or_art_description"><span class="cookie_crumb">&gt; </span><span class="cookie_crumb">CookieCrumb</span><span class="cookie_crumb"> </span> </p>
+          <p class="body_copy_or_art_description"><span class="center_headline_major">HeadlineMajor</span><br />
+              <span class="center_headline_minor">HeadlineMinor</span></p>
+          <p class="body_copy_or_art_description">BodyCopy-ArtDescription</p>
+          <p class="center_subhead">CenterSubHeads</p>
+          <p class="center_link">CenterLink &gt; </p>
+          <p class="body_copy_or_art_description">Images | Images 2 | Bio</p>
+          <hr />
+          <p class="center_link">&nbsp; </p>
+        <!-- TemplateEndEditable --></td>
+      </tr>
+    </table></td>
+    <td width="68" rowspan="2" valign="top" background="../images/shade_bar.jpg"><img src="../images/shade_bar.jpg" width="63" height="332" /></td>
+    <td width="178" align="left" valign="top" bgcolor="#FFFFFF"><!-- #BeginLibraryItem "/library/right_column.lbi" --><!-- RIGHT COLUMN -->
+
+
+<link rel="stylesheet" type="text/css" href="../css/lesyeuxdumonde_css.css" />
+<table width="178" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="168"><table width="163" border="0" cellpadding="0" cellspacing="0" id="Right_Column_Table">
+      
+      <tr>
+        <td width="168" height="1191" valign="top" bgcolor="#FFFFFF" ><table width="163" border="0" cellpadding="0" cellspacing="0" id="Season_highlights">
+            
+            <tr>
+              <td height="2" colspan="2" valign="top"><img src="../images/spacer.gif" width="168" height="1"></td>
+            </tr>
+            <tr>
+              <td height="10" colspan="2" valign="top" class="right_column_header">Season highlights</td>
+            </tr>
+            <tr>
+              <td height="10" colspan="2" valign="top">&nbsp;</td>
+            </tr>
+            <tr class="all_caps_3">
+              <td height="10" valign="top"><img src="../images/10pt_high_spacer.jpg" alt="" width="55" height="1" /></td>
+              <td height="10" valign="top">FEATURED ARTISTS</td>
+            </tr>
+            <tr>
+              <td height="10" colspan="2" valign="top"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>
+            <tr class="right_menu_text">
+              <td width="38" valign="top" class="right_menu_text">Aug</td>
+              <td width="125" valign="top"><a href="/artists/Grant/" class="right_column_bold_link">John Grant</a></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+              </tr>
+            <tr class="right_menu_text">
+              <td valign="top" class="right_menu_text">Oct-Nov</td>
+              <td valign="top"><a href="/artists/Dass/" class="right_column_bold_link">Dean Dass</a></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+              </tr>
+            <!--
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+              </tr>
+            <tr>
+              <td valign="top" class="right_menu_text">Jul</td>
+              <td valign="top" class="right_menu_text">&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+              </tr>
+            <tr>
+              <td valign="top" class="right_menu_text">Aug</td>
+              <td valign="top" class="right_menu_text">&nbsp;</td>
+            </tr>
+            -->
+            <tr class="right_menu_text">
+              <td valign="top" class="right_menu_text">Nov-Jan</td>
+              <td valign="top"><a href="/artists/Warren/" class="right_column_bold_link">Russ Warren</a></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+              </tr>
+            <tr class="right_menu_text">
+              <td valign="top" class="right_menu_text">Jan-Feb</td>
+              <td valign="top"><a href="/artists/Gasman/" class="right_column_bold_link">Lydia Gasman</a></td>
+            </tr>
+            <tr class="right_menu_text">
+              <td valign="top" class="right_menu_text">&nbsp;</td>
+              <td valign="top">and</td>
+            </tr>
+            <tr class="right_menu_text">
+              <td valign="top" class="right_menu_text">&nbsp;</td>
+              <td valign="top"><a href="/artists/Summers/" class="right_column_bold_link">David Summers</a></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+              </tr>
+            <tr class="right_menu_text">
+              <td valign="top" class="right_menu_text">Feb-Mar</td>
+              <td valign="top" class="right_column_bold">Minds Wide Open: </td>
+            </tr>
+            <tr class="right_menu_text">
+              <td valign="top" class="right_menu_text">&nbsp;</td>
+              <td valign="top">Women in the Arts Group Show</td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top"><span class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></span></td>
+              </tr>
+            <tr class="right_menu_text">
+              <td valign="top">Apr-May</td>
+              <td valign="top"><a href="/artists/Perry/" class="right_column_bold_link">Lincoln Perry</a></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top" class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></td>
+            </tr>
+            <tr class="right_menu_text">
+              <td valign="top">May-Jun</td>
+              <td valign="top"><a href="/artists/Abell/" class="right_column_bold_link">Sam Abell</a></td>
+            </tr>
+            <tr>
+              <td colspan="2" valign="top"><span class="right_menu_text"><img src="../images/10_pixel_spacer.jpg" alt="" width="10" height="10"></span></td>
+              </tr>
+            <tr class="right_menu_text">
+              <td valign="top">Jul-Aug</td>
+              <td valign="top" class="right_column_bold">Modern Masters</td>
+            </tr>
+            <!--<tr class="right_menu_text">
+              <td valign="top">&nbsp;</td>
+              <td valign="top">DETAILS</td>
+            </tr>-->
+          </table>
+          
+          <br>
+          
+            <table width="168" border="0" cellpadding="0" cellspacing="0" id="Gallery_news">
+              <tr>
+                <td width="168"><span class="right_column_header">Gallery news</span></td>
+              </tr>
+              <tr>
+                <td height="10" colspan="2" valign="top" class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" width="15" height="15" /></td>
+              </tr>
+              
+              <tr>
+                <td class="right_menu_text"><span class="right_menu_text_bold">Summer &amp; fall events</span></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" width="10" height="10" /></td>
+              </tr>
+              <!--<tr>
+                <td class="right_menu_text">LYDM has Good News!  We will be moving into our new space, a gallery designed by W.G. Clark and Associates and constructed by Peter Johnson Builders in early October.  Our first show will feature <a href="/artists/Dass/" class="right_menu_text_link">Dean Dass</a>, current chair of the University of Virginia Art Department and well known printmaker, painter and book artist.</td>
+              </tr>
+              <tr>
+                <td><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>-->
+              <tr>
+                <td class="right_menu_text">To find out about other exciting exhibitions and events we are planning in conjunction with our grand opening, join our confidential email list. <a href="/contact/" class="right_column_link">&gt; Contact us</a></td>
+              </tr>
+              
+              <tr>
+                <td><img src="../images/10pt_high_spacer.jpg" alt="" width="5" height="5" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">LYDM is moving towards e-cards, when possible, for the health of our planet and pocketbooks; however, if you would rather receive "snail mail" we would be happy to add you to that list. If you care to give us your preference, we would be grateful to honor it.</td>
+              </tr>
+              <tr>
+                <td><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">LYDM Gallery not only mounts exhibitions of artists, but also locates art of all kinds for any client's needs.</td>
+              </tr>
+              <tr>
+                <td><img src="../images/10pt_high_spacer.jpg" alt="" width="5" height="5" /></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">We are also available for arts consulting as well.</td>
+              </tr>
+              <tr>
+                <td><span class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="15" height="15" /></span></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text_bold">Collector's Club</td>
+              </tr>
+              <tr>
+                <td><span class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></span></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">Les Yeux du Monde formed  <a href="../calendar/collectors_club.html" class="right_menu_text_link">Collector's Club</a> this past fall and continues this spring with monthly special events for its members and a featured artist/work per month sold to members for discounted prices. To join or learn more:</td>
+              </tr>
+              <tr>
+                <td><a href="../contact" class="right_column_link">&gt; Contact us</a></td>
+              </tr>
+              <tr>
+                <td><span class="right_menu_text"><img src="../images/10pt_high_spacer.jpg" alt="" width="10" height="10" /></span></td>
+              </tr>
+              <tr>
+                <td class="right_menu_text">A limited number of prints and other images from fall 2008 <a href="../calendar/collectors_club.html" class="right_menu_text_link">Collector’s Club</a> editions are still available.</td>
+              </tr>
+              <tr>
+                <td><a href="../calendar/collectors_club_portfolio.html" class="right_column_link">&gt; See images</a></td>
+              </tr>
+            </table>
+            
+
+            <br />
+          <p>&nbsp;</p></td>
+      </tr>
+    </table></td>
+    <td width="10" valign="top" bgcolor="#FFFFFF"><img src="../images/20_pixel_spacer.jpg" width="10" height="20" /></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<!-- END RIGHT COLUMN --><!-- #EndLibraryItem --></td>
+  </tr>
+  
+  <tr>
+    <td colspan="2" bgcolor="#FFFFFF">&nbsp;</td>
+    <td bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4"><img src="../images/footer.jpg" width="785" height="85" /></td>
+  </tr>
+  <tr>
+    <td colspan="4" bgcolor="#FFFFFF" class="body_copy_or_art_description">
+	
+	 <table width="450" border="0" cellpadding="0" cellspacing="0" id="copyright">
+        <tr>
+          <td width="17">&nbsp;</td>
+          <td width="449">&copy; 1995-2007 All Rights Reserved. Les Yeux du Monde </td>
+        </tr>
+      </table>
+     
+	 <p>&nbsp;</p>
+	</td>
+  </tr>
+</table>
+</body>
+</html>
+

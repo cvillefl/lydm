@@ -1,0 +1,27 @@
+﻿<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- RIGHT COLUMN -->
+
+
+<link rel="stylesheet" type="text/css" href="/css/lesyeuxdumonde_css.css">
+
+<div id="rh_sidebar">
+
+</div>
+
+
+<script>
+$(document).ready(function() {
+	$.ajax({
+        type:     "GET",
+        url:      'http://www.lesyeuxdumonde.com/sidebars/rh_sidebar.html',
+        cache:    false,
+        dataType: "html",
+        success:  function(data) {
+            $('#rh_sidebar').html(data);
+        }
+    }); 	
+});
+</script>
+
+
+<p>&nbsp;</p>
+<!-- END RIGHT COLUMN -->

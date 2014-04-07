@@ -1,0 +1,5 @@
+vti_encoding:SR|utf8-nl
+RealmName:restricted/logs
+InheritPermissions:false
+PasswordDir:/export/home/lesyeux/public_html/restricted/logs/_vti_pvt
+UseRealm:/restricted/logs
